@@ -1,0 +1,17 @@
+body {
+    background-image: linear-gradient(rgb(0, 247, 255), rgb(0, 115, 209));
+}
+img {
+    border-radius: 20px;
+}
+h1 {
+    border-style: dashed;
+    border-width: 10;
+    border-radius: 15px;
+    text-align: center;
+    font-size: 50px;
+    color: white;
+} 
+h2 {
+    color: white;
+}

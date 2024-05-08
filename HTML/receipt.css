@@ -1,0 +1,46 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Young+Serif&display=swap');
+*
+body {
+    background-color: rgb(234, 208, 175);
+    place-content: center;
+    font-family: Young+Serif;
+}
+img {
+    border-radius: 35px;
+    display: block;
+    margin: auto;
+}
+#gay {
+    margin-left: 35%;
+}
+.Information {
+    text-align: center;
+    margin: auto;
+}
+.Box1 {
+    background-color: white;
+    padding: 1rem;
+    width: 900px;
+    height: 1000x;
+    margin: auto;
+    border-radius: 50px;
+    
+}
+#Panha, h2, h1 {
+    margin-left: 5.5%;
+}
+#Rith, #jo, #heng, #table{
+    margin-left: 5.5%;
+}
+#ksv {
+    margin-left: 1%;
+}
+.box2 .Preparation {
+    background-color: rgb(255, 217, 223);
+    border-radius: 30px;
+    height: 120px;
+    margin: 2.2rem;
+
+}
+
